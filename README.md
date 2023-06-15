@@ -10,6 +10,9 @@
   
 
 - 🌱 I’m currently learning Java  
+
+
+- 💻 I'm interested in Software Engineer, Problem solvind and Production of Audio Plugins
   
 
 - ⚡ Fun fact: I'm Music Producer enthusiast  

@@ -6,7 +6,7 @@
 ### <div align="center">I'm Felipe, a Brazilian Programmer in process!</div>  
   
 
-- 🎒 I'm a student in IFPR  
+- 🎒 I'm a student in IFPR in the computer course integrated into High School
   
 
 - 🌱 I’m currently learning Java  

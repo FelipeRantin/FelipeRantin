@@ -1,23 +1,19 @@
 <div id="header" align="center">
     <img src="https://media.giphy.com/media/4oRILGMNjVlWpbtMxJ/giphy.gif" width = "100" />
     </div>
-    
-    
 
+<h1 align="center">Hi 👋, I'm Felipe</h1>
+<h3 align="center">A begginer programmer from Brazil.</h3>
+
+- 🌱 I’m currently learning **Java**
+
+- 📫 How to reach me **felipe.rantin.tinfem2022@gmail.com**
+
+- ⚡ Fun fact **I'm a music producer enthusiast**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
 </p>
 
-# Hi, I'm Felipe Rantin 👋
-
-[<img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white">](https://twitter.com/lonelypeg)
-
-- :school: I'm currently studing in IFPR in the technical course of Informatics integrated to High School.
-- 🌱 I’m currently learning Java
-<br/>
-
-### Languages and Tools:
-<div display="flex">
-
-</div>
-<br/>
-   
-    
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>

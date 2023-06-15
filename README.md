@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning Java  
 
 
-- 💻 I'm interested in Software Engineer, Problem solvind and Production of Audio Plugins
+- 💻 I'm interested in Software Engineer, Problem solving and Audio Processing
   
 
 - ⚡ Fun fact: I'm Music Producer enthusiast  

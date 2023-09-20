@@ -23,6 +23,8 @@
 <div align="center">  
 <img src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" width= "33">
 </div>
+<div align="center">
+<img src="https://seeklogo.com/vector-logo/273735/mysql.com.png" width = "33">
 
 
 </td><td valign="top" width="33%">

@@ -22,10 +22,6 @@
 
 <div align="center">  
 <img src="https://seeklogo.com/images/J/java-logo-7F8B35BAB3-seeklogo.com.png" width= "33">
-</div>
-<div align="center">
-<img src="https://seeklogo.com/vector-logo/273735/mysql.com.png" width = "33">
-
 
 </td><td valign="top" width="33%">
 
@@ -53,10 +49,6 @@
 
 
 <br/> 
-
-
-## Currently Listening
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=31gf2omsrabmfkbcxkgmkzkuvlce&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false" width= "250" /></div>  
 
 <br/>  
 

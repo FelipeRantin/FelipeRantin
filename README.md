@@ -9,7 +9,7 @@
 - 🎒 I'm a student in IFPR in the computer course integrated into High School
   
 
-- 🌱 I’m currently learning Java and SQL
+- 🌱 I’m currently learning Java, SQL, Android programming and Realm
 
 
 - 💻 I'm interested in Software Engineer, Problem solving and Audio Plugin Development

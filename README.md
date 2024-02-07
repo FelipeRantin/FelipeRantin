@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning Java, SQL, Android programming and Realm
 
 
-- 💻 I'm interested in Software Engineer, Problem solving and Audio Plugin Development
+- 💻 I'm interested in Software Engineering, Problem solving and Android Apps programming
   
 
 <br/>  
@@ -34,29 +34,3 @@
 </td></tr></table>  
 
 <br/>  
-
-
-## Connect with me  
-<div align="center">
-<a href="https://github.com/FelipeRantin" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
-  
-<br/>  
-
-
-
-<br/> 
-
-<br/>  
-
-  
-
-<br/>  
-
-
-<br />
-
-----

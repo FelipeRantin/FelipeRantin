@@ -12,7 +12,7 @@
 - 🌱 I’m currently learning Python, HTML, CSS & JS
 
 
-- 💻 I'm interested in Software Engineering, Problem solving and Android Apps programming
+- 💻 I'm interested in Data Scientist
   
 
 <br/>  

@@ -1,4 +1,4 @@
-👋 Hi there, I'm Felipe
+## 👋 Hi there, I'm Felipe.
 
 🎓 Undergraduate student at the Federal Institute of Paraná (IFPR) in Technical Informatics.  
 💻 Currently learning and working with:
